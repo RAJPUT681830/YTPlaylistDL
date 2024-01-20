@@ -10,17 +10,17 @@ _🎯 Follow me and star this repo for more telegram bots._
 ## 📌 Deploy to Heroku
 Click below button to deploy.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/YTPlaylistDL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAJPUT681830/YTPlaylistDL)
 
 ## 📌 Credits
 - [Youtube-DL](https://youtube-dl.org) for Youtube-DL python
 - [WBB](https://github.com/thehamkercat/WilliamButcherBot) for is_downloading idea
-- [Me](https://github.com/AnjanaMadu) for this Project 🤪
+- [Me](https://github.com/RAJPUT681830) for this Project 🤪
 
 ## 📌 License
 ```
 YTPlaylistDL, An Telegram Bot Project
-Copyright (c) 2021 Anjana Madu <https://github.com/AnjanaMadu>
+Copyright (c) 2021 Anjana Madu <https://github.com/RAJPUT681830>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
